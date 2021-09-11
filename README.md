@@ -1,7 +1,8 @@
+# Abhigyan Trips
+![Banner](https://i.imgur.com/T3161cR.jpg)
+#
+Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
+[JEE](https://en.wikipedia.org/wiki/Joint_Entrance_Examination), 
+and learning programming through small projects  on the side.
 
 
-### Listening on Spotify
----
-<a href="https://now-playing-profile-32tppdqcd-abhigyantrips.vercel.app/api/now-playing.ts">
-    <img src="https://now-playing-profile-32tppdqcd-abhigyantrips.vercel.app/api/now-playing.ts" width="256" height="64" alt="Listening on Spotify">`
-</a>
