@@ -10,5 +10,5 @@ and learning programming through small projects  on the side.
 </p>
 
 <p align="center">
-<a href="https://github.com/abhigyantrips"><img alt="Abhigyan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox" /></a>
+<a href="https://github.com/abhigyantrips"><img alt="Abhigyan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828" /></a>
 </p>
