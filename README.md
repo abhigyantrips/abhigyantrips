@@ -1,13 +1,13 @@
-<img align="right" alt="PFP" height="128px" src="https://i.imgur.com/ERKYhEL.png" />
-# Abhigyan Trips
-
+<h1 align="center"><b>Abhigyan Trips</b></h1>
 Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-[JEE](https://en.wikipedia.org/wiki/Joint_Entrance_Examination), 
+<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
 and learning programming through small projects  on the side.
+
 
 # My Statistics
 
-[![Abhigyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhigyantrips&hide=issues&show_icons=true&theme=gruvbox)](https://github.com/abhigyantrips/)
+<p align="left">
+<a href="https://github.com/abhigyantrips"><img src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&hide=issues&show_icons=true&theme=gruvbox" alt="Abhigyan Trips' Stats" /></a>
 
-# Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyantrips&theme=gruvbox)](https://github.com/abhigyantrips/)
+<p align="right">
+<a href="https://github.com/abhigyantrips"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyantrips&theme=gruvbox" alt="Abhigyan Trips' Top Langs" /></a>
