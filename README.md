@@ -1,5 +1,6 @@
-# Abhigyan Trips
 <img align="right" alt="PFP" height="128px" src="https://i.imgur.com/ERKYhEL.png" />
+# Abhigyan Trips
+
 Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
 [JEE](https://en.wikipedia.org/wiki/Joint_Entrance_Examination), 
 and learning programming through small projects  on the side.
