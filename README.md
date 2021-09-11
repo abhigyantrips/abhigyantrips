@@ -6,7 +6,7 @@ and learning programming through small projects  on the side.
 
 ## My Statistics
 
-<p align="center"><a href="https://github.com/abhigyantrips"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox" alt="Abhigyan Trips' Streak" /></a>
+<p align="center"><a href="https://github.com/abhigyantrips"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&ring=c8a06c&fire=c8a06c&currStreakNum=c8a06c&sideNums=e0874f&currStreakLabel=e0874f&sideLabels=e0874f" alt="Abhigyan Trips' Streak" /></a>
 </p>
 
 <p align="center">
