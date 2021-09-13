@@ -13,9 +13,19 @@ and learning programming through small projects  on the side.
 
 ```python
 class AbhigyanTrips {
-    pronouns = "He" || "Him"
-    skills = ["Python", "HTML", "CSS"]
-    hobbies = ["Cubing", "Reading", "Music"]
+    
+  def __init__(self):
+    self.name = "Abhigyan Tripathi";
+    self.username = "abhigyantrips";
+    self.location = "Mumbai, India";
+    self.twitter = "@abhigyantrips";
+    self.web = "https://abhigyantrips.is-a.dev";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = AbhigyanTrips()
 }
 ```
 
