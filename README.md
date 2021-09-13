@@ -27,4 +27,4 @@ class AbhigyanTrips {
 
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828)](https://abhigyantrips.is-a.dev)
 
-![Spotify](https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark&spin=true)
+![Spotify](https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark)
