@@ -19,6 +19,12 @@ class AbhigyanTrips {
 }
 ```
 
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="200px">
+  </a>
+</div>
+
 ## My Statistics
 
 |[![Abhigyan Trips' Stats](https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true)](https://abhigyantrips.is-a.dev)|[![Abhigyan Trips' Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true)](https://abhigyantrips.is-a.dev)|
@@ -26,8 +32,4 @@ class AbhigyanTrips {
 
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828)](https://abhigyantrips.is-a.dev)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark">
-  </a>
-</div>
+
