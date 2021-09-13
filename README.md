@@ -9,7 +9,16 @@ and learning programming through small projects  on the side.
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
+
 </p>
+
+```python
+class AbhigyanTrips {
+    pronouns = "He" || "Him"
+    skills = ["Python", "HTML", "CSS"]
+    hobbies = ["Cubing", "Reading", "Music"]
+}
+```
 
 ## My Statistics
 
@@ -17,3 +26,5 @@ and learning programming through small projects  on the side.
 |:---:|:---:|
 
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828)](https://abhigyantrips.is-a.dev)
+
+![Spotify](https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark&spin=true)
