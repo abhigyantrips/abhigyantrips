@@ -31,10 +31,17 @@ if __name__ == '__main__':
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
 
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
 ## My Statistics
 
 |[![Abhigyan Trips' Stats](https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true)](https://abhigyantrips.is-a.dev)|[![Abhigyan Trips' Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true)](https://abhigyantrips.is-a.dev)|
