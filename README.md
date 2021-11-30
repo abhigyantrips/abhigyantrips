@@ -19,7 +19,7 @@ class AbhigyanTrips {
     self.username = "abhigyantrips";
     self.location = "Mumbai, India";
     self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.is-a.dev";
+    self.web = "https://abhigyantrips.dev";
   
   def __str__(self):
     return self.name
