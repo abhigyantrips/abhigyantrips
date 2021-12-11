@@ -1,8 +1,13 @@
-<h1 align="center"><b>Abhigyan Trips</b></h1>
+<h1 align="center">
+  <b>Abhigyan Trips</b>
+</h1>
+
 Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
 and learning programming through small projects  on the side.
+
 <br>
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
@@ -12,7 +17,7 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class AbhigyanTrips {
+class AbhigyanTrips():
     
   def __init__(self):
     self.name = "Abhigyan Tripathi";
@@ -26,7 +31,6 @@ class AbhigyanTrips {
 
 if __name__ == '__main__':
     me = AbhigyanTrips()
-}
 ```
 
 <div align="center">
@@ -42,6 +46,7 @@ if __name__ == '__main__':
   </a>
 </div>
 -->
+
 ## My Statistics
 
 <br/>
