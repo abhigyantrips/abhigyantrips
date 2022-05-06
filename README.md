@@ -1,9 +1,9 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Cenzooo</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
+Heya! I'm Muhammad Falih Afiq, a student currently living in Tegal, Indonesia. I'm preparing for 
+<a href="https://en.wikipedia.org/wiki/cenzoowhy">JEE</a>, 
 and learning programming through small projects  on the side.
 
 <br>
@@ -17,20 +17,20 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class AbhigyanTrips():
+class Cenzooo():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Muhammad Falih Afiq";
+    self.username = "Cenzo";
+    self.location = "Tegal, Indonesia";
+    self.twitter = "@cenzooo";
+    self.web = "https://zxteam.live";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = Cenzoo()
 ```
 
 <div align="center">
