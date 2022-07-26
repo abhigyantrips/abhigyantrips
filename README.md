@@ -2,9 +2,9 @@
   <b>Abhigyan Trips</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=48&duration=6000&color=C57C45&center=true&width=1600&height=90&lines=Heya!+I'm+Abhigyan+Tripathi;A+Student+currently+living+in+Mumbai%2C+India;I'm+preparing+for+JEE.;Learning+programming+through+small+projects+on+the+side.">
+</p>
 
 <br>
 
