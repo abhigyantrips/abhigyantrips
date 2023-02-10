@@ -24,4 +24,4 @@
 
 <br/>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://abhigyantrips.dev)
+[![Abhigyan Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhigyantrips&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://abhigyantrips.dev)
