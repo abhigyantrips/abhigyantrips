@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=abhigyantrips&theme=dark&hide_border=true" />
   </a>
 </p>
 
