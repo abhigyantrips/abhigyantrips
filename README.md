@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://stats.abhigyantrips.workers.dev/testing?show_icons=true&theme=dark&hide_border=true" />
-    <img width="49.5%" src="https://stats.abhigyantrips.workers.dev/github/streak?theme=dark&show_icons=true&hide_border=true" />
+  <img width="46.45%" src="https://stats.abhigyantrips.workers.dev/testing?show_icons=true&theme=dark&hide_border=true&hide_title=true&v=vaa" />
+    <img width="52.55%" src="https://stats.abhigyantrips.workers.dev/github/streak?theme=dark&show_icons=true&hide_border=true&v=something" />
   </a>
 </p>
 
