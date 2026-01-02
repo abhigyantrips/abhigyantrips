@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
-    <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=abhigyantrips&theme=dark&hide_border=true" />
+  <img width="49.5%" src="https://stats.abhigyantrips.workers.dev/testing?show_icons=true&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://stats.abhigyantrips.workers.dev/github/streak?theme=dark&show_icons=true&hide_border=true" />
   </a>
 </p>
 
